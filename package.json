@@ -8,6 +8,11 @@
     "type": "git",
     "url": "https://github.com/paowick/paowick-vscode-theme"
   },
+  "keywords": [
+    "paowick",
+    "theme",
+    "dark theme"
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
